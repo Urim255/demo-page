@@ -1,1 +1,1 @@
-/Users/everflow/Code/Web/ssg/target/debug/ssg: /Users/everflow/Code/Web/ssg/src/main.rs
+/Users/everflow/Code/Web/demo-page/target/debug/ssg: /Users/everflow/Code/Web/demo-page/src/main.rs
