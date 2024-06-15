@@ -31,7 +31,7 @@ fn main() {
     * function: load map.json *
     ********************/
     // load JSON file to string
-    let json_str = fs::read_to_string("./map.json")
+    let json_str = fs::read_to_string("../soswg_template/map.json")
         .expect("Error loading JSON file.");
 
     // load JSON string to Pages struct
