@@ -1,0 +1,92 @@
+{
+"pages" : [
+        {
+        "title" : "Programs",
+        "link" : false,
+        "path" : "./programs.html",
+        "content" : "./content/programs.txt",
+        "template" : false,
+        "index" : 2
+        },
+        {
+          "title" : "Template",
+          "link" : false,
+          "path" : "",
+          "content" : "./template.html",
+          "template" : true,
+          "index" : 0
+        },
+        {
+          "title" : "Twitter",
+          "link" : true,
+          "path" : "https://www.twitter.com/joekreydt.github.io",
+          "content" : "",
+          "template" : false,
+          "index" : 10
+        },
+        {
+          "title" : "Songs",
+          "link" : false,
+          "path" : "./songs.html",
+          "content" : "./content/songs.txt",
+          "template" : false,
+          "index" : 6
+        },
+        {
+          "title" : "Home",
+          "link" : false,
+          "path" : "./index.html",
+          "content" : "./content/home.txt",
+          "template" : false,
+          "index" : 1
+        },
+        {
+          "title" : "Thoughts",
+          "link" : false,
+          "path" : "./thoughts.html",
+          "content" : "./content/thoughts.txt",
+          "template" : false,
+          "index" : 5
+        },
+        {
+          "title" : "About",
+          "link" : false,
+          "path" : "./about.html",
+          "content" : "./content/about.txt",
+          "template" : false,
+          "index" : 9
+        },
+        {
+          "title" : "Drawings",
+          "link" : false,
+          "path" : "./drawings.html",
+          "content" : "./content/drawings.txt",
+          "template" : false,
+          "index" : 7
+        },
+        {
+          "title" : "Poems",
+          "link" : false,
+          "path" : "./poems.html",
+          "content" : "./content/poems.txt",
+          "template" : false,
+          "index" : 3
+        },
+        {
+          "title" : "Recipes",
+          "link" : false,
+          "path" : "./recipes.html",
+          "content" : "./content/recipes.txt",
+          "template" : false,
+          "index" : 8
+        },
+        {
+          "title" : "Videos",
+          "link" : false,
+          "path" : "./videos.html",
+          "content" : "./content/videos.txt",
+          "template" : false,
+          "index" : 4
+        }
+]
+}
